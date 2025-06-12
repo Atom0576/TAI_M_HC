@@ -15,8 +15,8 @@ export function ExitBonus({ next }) {
     // Save any final data
     player.set("exitBonus", {});
 
-    // Redirect to external link (e.g., Prolific completion page or survey)
-    window.location.href = "https://app.prolific.com/submissions/complete?cc=C14XNLTE";
+    // Redirect to external link (e.g.,  completion page or survey)
+    window.location.href = "https://app.prolific.com/submissions/complete?cc=CCRZ83VM";
   }
 
   return (
